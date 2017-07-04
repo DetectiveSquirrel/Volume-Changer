@@ -1,0 +1,9 @@
+c:\users\tuba\documents\visual studio 2015\Projects\Volume Changer\Volume Changer\bin\Debug\Volume Changer.exe.config
+c:\users\tuba\documents\visual studio 2015\Projects\Volume Changer\Volume Changer\bin\Debug\Volume Changer.exe
+c:\users\tuba\documents\visual studio 2015\Projects\Volume Changer\Volume Changer\bin\Debug\Volume Changer.pdb
+c:\users\tuba\documents\visual studio 2015\Projects\Volume Changer\Volume Changer\obj\Debug\Volume Changer.csprojResolveAssemblyReference.cache
+c:\users\tuba\documents\visual studio 2015\Projects\Volume Changer\Volume Changer\obj\Debug\Volume_Changer.MainForm.resources
+c:\users\tuba\documents\visual studio 2015\Projects\Volume Changer\Volume Changer\obj\Debug\Volume_Changer.Properties.Resources.resources
+c:\users\tuba\documents\visual studio 2015\Projects\Volume Changer\Volume Changer\obj\Debug\Volume Changer.csproj.GenerateResource.Cache
+c:\users\tuba\documents\visual studio 2015\Projects\Volume Changer\Volume Changer\obj\Debug\Volume Changer.exe
+c:\users\tuba\documents\visual studio 2015\Projects\Volume Changer\Volume Changer\obj\Debug\Volume Changer.pdb
