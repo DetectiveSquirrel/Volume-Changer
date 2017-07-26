@@ -1,5 +1,5 @@
 # Volume-Changer
-Changes application volumes
+Changes application volumes  
 When opening it will start minimized do not panic
 
 
